@@ -6,4 +6,5 @@ sentence-transformers
 pypdf
 python-dotenv
 langchain-pinecone
+certifi
 -e .
