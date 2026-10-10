@@ -7,4 +7,7 @@ pypdf
 python-dotenv
 langchain-pinecone
 certifi
+langchain-huggingface
+langchain-core
+langchain-text-splitters
 -e .
